@@ -12,6 +12,9 @@
     "pmx": "latest",
     "semver": "*"
   },
+  "overrides": {
+    "is": "3.3.0"
+  },
   "deprecated": false,
   "description": "Yet another fork of pm2-intercom for graceful starting",
   "devDependencies": {
@@ -21,7 +24,7 @@
   },
   "keywords": [
     "pubsub",
-    "intercomunication",
+    "intercommunication",
     "microservice",
     "service",
     "zeromq",
